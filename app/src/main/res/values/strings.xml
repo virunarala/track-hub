@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TrackHub</string>
+
+    <!-- Generic -->
+    <string name="required">Required</string>
+    <string name="error_message">Something went wrong. Please check the entered details and try again.</string>
+
+    <!-- Home -->
+    <string name="title_home">Home</string>
+    <string name="add_repo">Add Repo</string>
+    <string name="share_repo_message">Check out this repo I\'m tracking! \n %1$s \n\n %2$s</string>
+    <string name="hint_share_repo">Share your repo using</string>
+    <string name="no_repos_added_message">Track your favorite repos by tapping the Add \'+\' button</string>
+
+    <!-- Add Repo -->
+    <string name="title_add_repo">Add Repo</string>
+    <string name="owner">Owner</string>
+    <string name="repo_name">Repository Name</string>
+    <string name="repo_added_message">"Repository %1$s added successfully"</string>
+
+</resources>
